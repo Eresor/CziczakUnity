@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CziczakUnity", "CziczakUnity.csproj", "{E1C76E24-314B-FD89-ADD1-3E752544EAEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CziczakUnity.Editor", "CziczakUnity.Editor.csproj", "{A34E634E-7D14-C0B3-56A4-31929947FB7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1C76E24-314B-FD89-ADD1-3E752544EAEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1C76E24-314B-FD89-ADD1-3E752544EAEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1C76E24-314B-FD89-ADD1-3E752544EAEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1C76E24-314B-FD89-ADD1-3E752544EAEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A34E634E-7D14-C0B3-56A4-31929947FB7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A34E634E-7D14-C0B3-56A4-31929947FB7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A34E634E-7D14-C0B3-56A4-31929947FB7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A34E634E-7D14-C0B3-56A4-31929947FB7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
